@@ -38,7 +38,7 @@ namespace IdentityProject
                 });
             });
 
-            //app.UseMvcWithDefaultRoute();         // default  -- Controller/Action/{id}-- isimli route olusturur, manuel eklemeye gerek kalmaz
+            //app.UseMvcWithDefaultRoute();         // default  --Controller/Action/{id}-- isimli route olusturur, manuel eklemeye gerek kalmaz
         }
     }
 }
